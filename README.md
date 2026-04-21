@@ -25,7 +25,7 @@ By customizing the task editor, the Gantt Chart can support extended editing sce
 ## How to Run the Project
 
 1. Clone or checkout this repository to a local folder.
-2. Open the solution file in Visual Studio 2022 (or later)
+2. Open the project file (`.csproj`) in Visual Studio 2022 or later.
 3. Restore the required NuGet packages.
 4. Register your Syncfusion license key (if not already registered).
 5. Run the application.
